@@ -103,18 +103,15 @@ The bot provides a recommendation after verifing the minimum age to create finan
 ![AWS Account](Test_Events/aws_acc.png)
 
 ### Demo Video
-![Demo Video](video/robo_advisor_final.mp4)
+![Demo Video](https://youtu.be/cv_6fxzFT3A)
 
 
 <!--Testing Bot -->
 ## Testing Bot
-![Testing Bot](video/robo_advisor_test1.mp4)
-
-(https://github.com/JeremyPVargas/robo_investment_advisor_on-AWS_machine_learning/blob/main/video/robo_advisor_final.mp4)
-
+![Testing Bot](https://youtu.be/712FoK-DMzw)
 
 ### Testing Lambda Optimized Bot
-![Testing Optimized Bot](video/robo_advisor_test2.mp4)
+![Testing Optimized Bot](https://youtu.be/4Lh4nGjoeBA)
 
 ### Testing user age validation
 ![Testing Age Validation](Test_Events/test_age.png)
