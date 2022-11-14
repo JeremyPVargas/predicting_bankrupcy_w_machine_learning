@@ -111,7 +111,8 @@ The bot provides a recommendation after verifing the minimum age to create finan
 ![Testing Bot](https://youtu.be/712FoK-DMzw)
 
 ### Testing Lambda Optimized Bot
-![Testing Optimized Bot](https://youtu.be/4Lh4nGjoeBA)
+![Testing Lambda optimized bot]
+Watch it on [youtube](https://youtu.be/4Lh4nGjoeBA)
 
 ### Testing user age validation
 ![Testing Age Validation](Test_Events/test_age.png)
