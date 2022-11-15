@@ -99,13 +99,16 @@ The bot provides a recommendation after verifing the minimum age to create finan
 <!--How to run -->
 ## How to run
 
-### AWS Account
+## AWS Account
+Login to your AWS Account. 
+Click on "Create a new AWS Account" if you don't have one.
+
 ![AWS Account](Test_Events/aws_acc.png)
 
-### Demo Video
-Watch it on [youtube](https://youtu.be/cv_6fxzFT3A)
+## Demo Video
+Watch it on [youtube](https://youtu.be/jiC3oEVfYL8)
 
-
+---
 <!--Testing Bot -->
 ## Testing Bot
 Watch it on [youtube](https://youtu.be/712FoK-DMzw)
